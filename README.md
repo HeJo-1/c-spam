@@ -31,13 +31,9 @@ Bu proje, Windows API kullanarak belirli bir mesajı belirtilen sıklıkta ve s�
 - **WindowProc:** Pencere işlemlerini yönetir, buton tıklamaları gibi olayları dinler.
 - **WinMain:** Uygulamanın ana giriş noktasıdır ve pencereyi oluşturur.
 
-## İzinler
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Dilediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz.
-
 ## Katkıda Bulunanlar
 
-- [Adınız] - Proje sahibi
+- [NULL] - Proje sahibi
 
 ## İletişim
 
